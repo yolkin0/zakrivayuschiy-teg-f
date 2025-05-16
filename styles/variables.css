@@ -6,11 +6,9 @@
   --accent-font: 'Press Start 2P';
   --accent-font-normal-weight: 400;
   --content-width: clamp(375px, calc(700 / 1440 * 100vw), 700px);
-  --accent-font-family: var(--accent-font), sans-serif;
   --main-color: #fff;
   --accent-color: #000;
   --image-lable-stroke-color: #fff;
-  --dialog-save-content-size: clamp(257px, 244.3239px + 3.3803vw, 293px);
   --bg-pattern:
     repeating-linear-gradient(
       to right,
